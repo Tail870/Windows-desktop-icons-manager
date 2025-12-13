@@ -51,8 +51,8 @@ REM Locale unknown - default to english
 	set "yn_sure=Are you sure?"
 	set "y_or_n_prompt=y/n (other - stop the script):"
 goto :finalise_localization
-
 ```
+Please not that before some charachers you should add a caret. For example ```!``` should look like this: ```^!```.
 
 At the start of procedure you should add a correct goto section right after "for" function ("echo" is for displaying LCID during debuging):
 ```bat
