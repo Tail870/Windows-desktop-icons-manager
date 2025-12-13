@@ -9,6 +9,7 @@ REM and cd to script's location. Just in case.
 REM Could be changed to a correct custom path.
 cd %~dp0
 ```
+By default during saving icons' layout *.reg file will be saved in script's location.
 You can change it to look like this:
 ```bat
 REM and cd to script's location. Just in case.
