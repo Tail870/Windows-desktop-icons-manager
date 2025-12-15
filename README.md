@@ -1,3 +1,8 @@
+# TODO
+- Add saving/restoring, using custom filenames;
+- Some kind of profile management?..
+- Unattended mode.
+
 # Customization
 Curently there's two customization points:
 - setting a custom working directory;
