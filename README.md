@@ -7,7 +7,7 @@
 Curently there's two customization points:
 - setting a custom working directory;
 - writing a custom translation inside :setLanguage procedure.
-## Custom working diractory
+## Custom working directory
 At the start of script (let's call it "chores" section) there's a "cd" function:
 ```bat
 REM and cd to script's location. Just in case.
