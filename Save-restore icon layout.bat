@@ -1,4 +1,4 @@
-CuREM Some chores...
+REM Some chores...
 @echo off
 chcp 65001
 setlocal enabledelayedexpansion
@@ -176,4 +176,5 @@ set "s_r_or_c_prompt=!s_r_or_c_prompt! "
 set "y_or_n_prompt=!y_or_n_prompt! "
 
 REM Exit the called procedure.
+
 exit /b
